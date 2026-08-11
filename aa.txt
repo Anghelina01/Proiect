@@ -2,3 +2,4 @@ Salut -
 Hi
 Hello
 Ciao
+Bon jour
